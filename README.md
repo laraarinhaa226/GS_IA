@@ -36,7 +36,7 @@ Critico:
 
 Abra o notebook no Google Colab:
 
-[Acessar Notebook](https://colab.research.google.com/drive/SEU_LINK_AQUI)
+[Acessar Notebook](hhttps://colab.research.google.com/drive/1gPklYoitZMwdOGFQX0oHhXgJpxKDV7N9#scrollTo=FsLb3gE9kQra)
 
 
 
