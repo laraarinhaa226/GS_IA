@@ -15,8 +15,12 @@ quando a missão entra em situação crítica. A IA (ARIA) analisa os dados
 e recomenda ações para a tripulação em tempo real.
 
 ## Demonstração
+Normal:
 
-Na pasta Assets
+![Dados da missão](dados_missao.png)
+
+Critico:
+![Alerta crítico](alerta_critico.png)
 
 ## Tecnologias utilizadas
 
