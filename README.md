@@ -22,7 +22,7 @@ Normal:
 Critico:
 ![Alerta crítico](alerta_critico.png)
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 - Python 3
 - Google Colab
