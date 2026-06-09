@@ -1,4 +1,4 @@
-Global Solution 20226- IA
+Global Solution 2026- IA
 
 Integrantes:
 - Giulliana Brasolin — RM: 569381
@@ -10,7 +10,7 @@ Integrantes:
 Sistema de monitoramento de missão espacial desenvolvido em Python.
 Utiliza o modelo de linguagem Llama 3.2 via Ollama para analisar dados 
 simulados de sensores da nave como temperatura, energia, comunicação e
-status dos módulos,e também gera alertas automáticos e respostas de emergência 
+status dos módulos, e também gera alertas automáticos e respostas de emergência 
 quando a missão entra em situação crítica. A IA analisa os dados 
 e recomenda ações para a tripulação em tempo real.
 
