@@ -5,7 +5,7 @@ Integrantes:
 - Mikaella Lucindo — RM: 573775
 - Lara Alves — RM: 573827
 
-## O que o projeto faz
+## Sobre o projeto 
 
 Sistema de monitoramento de missão espacial desenvolvido em Python.
 Utiliza o modelo de linguagem Llama 3.2 via Ollama para analisar dados 
@@ -40,6 +40,6 @@ Abra o notebook no Google Colab:
 
 
 
-## Video de Demonstracao
+## Video de Demonstração 
 
 [Assistir ao vídeo](https://link-do-video.com)
