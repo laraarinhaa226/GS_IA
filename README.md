@@ -16,11 +16,11 @@ e recomenda ações para a tripulação em tempo real.
 
 ## Demonstração
 Normal:
+![Dados da missão](assets/dados_missao.png)
 
-![Dados da missão](dados_missao.png)
 
 Critico:
-![Alerta crítico](alerta_critico.png)
+![Alerta crítico](assets/alerta_critico.png)
 
 ## Tecnologias Utilizadas
 
